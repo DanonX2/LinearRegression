@@ -1,4 +1,3 @@
-import matplotlib as plt
 import ast
 import random
 import math
